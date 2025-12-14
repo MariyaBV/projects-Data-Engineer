@@ -5,3 +5,4 @@ spark-4.0.1-bin-hadoop3.tgz
 spark-4.0.1-bin-hadoop3/
 .nbstripout
 .gitattributes
+tfenv/
